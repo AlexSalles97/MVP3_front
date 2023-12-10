@@ -14,7 +14,7 @@ As seguintes tecnologias utilizadas foram:
 - ReactJs
 - JSON
 - Git e Github
-- Figma [Protótipo interativo das telas](https://www.figma.com/proto/RM4EXWnkUWMlzcVAR3bZGL/MVP-Alecsander-Salles?type=design&node-id=3-2&t=vL2kXKVz4mNlKk28-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&mode=design)
+- Figma: [Protótipo interativo das telas](https://www.figma.com/proto/RM4EXWnkUWMlzcVAR3bZGL/MVP-Alecsander-Salles?type=design&node-id=3-2&t=vL2kXKVz4mNlKk28-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&mode=design)
 
 ## ⚒️ Como executar
 
