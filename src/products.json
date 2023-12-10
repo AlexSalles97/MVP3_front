@@ -1,0 +1,60 @@
+{
+    "hardwares": [
+        {
+            "id": 1,
+            "title": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 4060 EAGLE OC",
+            "description": "A Placa de Vídeo possui três ventiladores de lâmina exclusivos de 80 mm, tubos de calor de cobre compostos giratórios alternativos que tocam diretamente a GPU, ventiladores ativos 3D e resfriamento de tela, que juntos fornecem dissipação de calor de alta eficiência é um software unificado para todos os produtos suportados pela GIGABYTE. Ele fornece uma interface intuitiva que permite aos usuários ajustar a velocidade do clock, tensão, modo do ventilador e meta de energia em tempo real.",
+            "price": 1939.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gdrr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_1687981181_gg.jpg"]
+        },
+        {
+            "id": 2,
+            "title": "Processador AMD Ryzen 5 5500",
+            "description": "O Processador de tecnologia AMD StoreMI foi reconstituída desde o básico com um novo algoritmo que a tornou segura e simples de usar. Agora, a configuração do StoreMI simplesmente espelha os arquivos que você usa mais para um SSD de sua escolha, deixando intacta a versão original. O software redireciona com perfeição o Windows® e os seus aplicativos para que sejam usadas as cópias espelhadas mais velozes. Se o cache SSD for removido ou desabilitado, todos os seus arquivos no disco rígido permanecem exatamente como estavam no início.",
+            "price": 598.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/320799/processador-amd-ryzen-5-5500-cache-19mb-3-7ghz-4-2ghz-max-turbo-am4-100-100000457box_1647636796_gg.jpg"]
+        },
+        {
+            "id": 3,
+            "title": "SSD Kingston NV2 1 TB, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s",
+            "description": "O NV2 PCIe 4.0 NVMe SSD da Kingston é uma solução substancial de armazenamento de última geração alimentada por um controlador Gen 4x4 NVMe. O NV2 oferece velocidades de leitura/gravação de até 3.500/2.100 MB/s com menores requisitos de energia e menor aquecimento para ajudar a otimizar o desempenho do seu sistema e agregar valor sem sacrifícios.",
+            "price": 299.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/380745/ssd-kingston-nv2-1-tb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-1000g_1666033119_gg.jpg"]
+        },
+        {
+            "id": 4,
+            "title": "Cooler Master HYPER H410R com LED Vermelho RR-H410-20PK-R1",
+            "description": "O Hyper H410R, um novo membro da Série Hyper de longa data, é um cooler a ar acessível, compacto e de alto desempenho que seu dissipador de calor compacto é uma excelente combinação para pequenos sistemas. Com 4 heat pipes e tecnologia de contato direto, oferece um excelente desempenho de refrigeração que supera o seu antecessor Hyper 103 na dissipação de calor.",
+            "price": 99.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/97264/97264_1530185595_gg.jpg"]
+        },
+        {
+            "id": 5,
+            "title": "Memória Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",
+            "description": "A memória Kingston FURY Beast DDR4 proporciona um poderoso aumento de performance para jogos, edição de vídeo e renderização. Ela faz o overclock automático para a especificação de maior performance do módulo que seja suportada pelo sistema e está pronta para Intel XMP e AMD Ryzen.",
+            "price": 259.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_gg.jpg"]
+        },
+        {
+            "id": 6,
+            "title": "Mouse Gamer Redragon Cobra, Chroma RGB, 12400DPI, 7 Botões, Preto - M711 V2",
+            "description": "O Mouse Gamer Redragon Cobra, possui sensor PIXART 3327 para Alta Performance (20 G / 100 IPS) e seu sistema é de Iluminação RGB Redragon Chroma Mk.II (7 Diferentes Modos de Iluminação). Possui Polling Rate de 1000hz (Tempo de Resposta Ajustável via Software de 1/2/4/8ms), com 8 Botões Programáveis e 2 Botões laterais para funções / atalhos, macros, etc. Tudo isso com 130 gramas, leve e preciso para aquela jogada especial.",
+            "price": 89.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/94555/mouse-gamer-redragon-cobra-chroma-rgb-12400dpi-7-botoes-preto-m711-v2_1656018617_gg.jpg"]
+        },
+        {
+            "id": 7,
+            "title": "Teclado Gamer Trust GXT 833 Thado, LED Rainbow, TKL, USB, ABNT2, Preto - 24295",
+            "description": "O Trust GXT 833 Thado é um teclado para jogos sem dez teclas, 20% menor que os teclados com teclado numérico, facilitando o transporte. A sua placa traseira em metal torna o Thado robusto, enquanto a iluminação LED ilumina a festa.",
+            "price": 49.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/313312/teclado-gamer-trust-gxt-833-thado-led-rainbow-tkl-usb-abnt2-preto-24295_1646754745_gg.jpg"]
+        },
+        {
+            "id": 8,
+            "title": "Placa Mãe Gigabyte A520M S2H, AMD AM4, DDR4",
+            "description": "As placas-mãe GIGABYTE série UD usam um design de MOSFETs PWM + Low RDS (on) digital puro de 4 + 3 fases para suportar as CPUs AMD Ryzen de 3ª geração, oferecendo incrível precisão no fornecimento de energia para os componentes mais sensíveis e com maior consumo de energia da placa-mãe como além de fornecer desempenho de sistema aprimorado e escalabilidade de hardware definitiva.",
+            "price": 379.99,
+            "image": ["https://images.kabum.com.br/produtos/fotos/118916/placa-mae-gigabyte-a520m-s2h_1598615373_gg.jpg"]
+        }
+    ]
+}
